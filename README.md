@@ -1,4 +1,4 @@
-[![Build Status](https://www.travis-ci.org/Spardoks/supertask.svg?branch=master)](https://www.travis-ci.com/Spardoks/supertask)
+[![Build Status](https://www.travis-ci.org/Spardoks/supertask.svg?branch=master)](https://www.travis-ci.org/Spardoks/supertask)
 
 # USING
 ## Install
